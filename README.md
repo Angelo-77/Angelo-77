@@ -33,7 +33,7 @@ Explore one of my **Power BI dashboards**, designed to evaluate **product perfor
 
 🔗 [**View the full project on GitHub**](https://github.com/Angelo-77/ProductAnalysis)
 
-![Dashboard Preview]![Image](https://github.com/user-attachments/assets/38e210d9-65de-4ab6-8c62-cee1f28a8966)
+[Dashboard Preview]![Image](https://github.com/user-attachments/assets/38e210d9-65de-4ab6-8c62-cee1f28a8966)
 
 ---
 
