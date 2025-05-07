@@ -38,6 +38,6 @@ Explore one of my **Power BI dashboards**, designed to evaluate **product perfor
 ---
 
 📬 **Let’s connect!**  
-- 📧 angeloanalises@gmail.com  
+- 📧 angelo@angexconsulting.onmicrosoft.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/miguel-angelo-015782198/)
 
