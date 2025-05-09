@@ -1,6 +1,10 @@
 ## Welcome, visitor! 👋
 
-I'm a results-driven **Data Analyst and Business Intelligence professional** with a strong foundation in **Power BI, SQL, Excel (including VBA), and KPI Management**. I bring a unique blend of **technical expertise** and **business strategy** shaped by experiences across the **engineering, tax, and commercial sectors**.
+Data Analyst and **Business Intelligence Specialist** with a strong track record in leveraging tools like **Power BI, SQL, Excel
+(VBA), Power Query, and Python** to drive data-informed decisions. Experienced in transforming complex datasets into
+actionable insights, enhancing strategic initiatives across engineering, tax, and commercial sectors. Recognized for
+delivering precise analyses and effectively communicating findings to stakeholders, facilitating informed decisionmaking
+and operational improvements..
 
 ## 👤 About Me
 
