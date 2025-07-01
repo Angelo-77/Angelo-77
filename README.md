@@ -4,7 +4,7 @@ Data Analyst and **Business Intelligence Specialist** with a strong track record
 (VBA), Power Query, and Python** to drive data-informed decisions. Experienced in transforming complex datasets into
 actionable insights, enhancing strategic initiatives across engineering, tax, and commercial sectors. Recognized for
 delivering precise analyses and effectively communicating findings to stakeholders, facilitating informed decisionmaking
-and operational improvements..
+and operational improvements.
 
 ## 👤 About Me
 
